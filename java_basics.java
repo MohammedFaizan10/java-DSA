@@ -12,7 +12,7 @@ public class java_basics {
         System.out.println("Addition of two : " +add(10, 250));
         System.out.println("\n");
         
-        System.out.println("PATTERN PRINTING");
+        System.out.println("PATTERN PRINTING");  // BASIC PATTERN
 
         System.out.println("****");
         System.out.println("***");
