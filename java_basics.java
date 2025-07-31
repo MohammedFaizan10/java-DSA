@@ -39,7 +39,7 @@ public class java_basics {
         System.out.println(sh);
 
 
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);    // INPUT STATEMENT IN JAVA
         System.out.println("Enter A: ");
         int a = sc.nextInt();
         System.out.println("Enter B: ");
