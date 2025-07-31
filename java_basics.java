@@ -19,7 +19,7 @@ public class java_basics {
         System.out.println("**");
         System.out.println("*");
           
-        System.out.println("Data Types:");
+        System.out.println("Data Types:");    // DATA TYPES IN JAVA
         System.out.println("\n");
         byte f = 8;
         System.out.println(f);
