@@ -3,7 +3,7 @@ public class java_problems1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // 1
+        // problem 1
 
         System.out.println("ENTER A:");
         int a = sc.nextInt();
@@ -69,3 +69,4 @@ public class java_problems1 {
         
     }
 }
+
