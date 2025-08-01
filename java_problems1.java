@@ -19,7 +19,7 @@ public class java_problems1 {
         System.out.println("THE AVERAGE OF A,B,C IS : "+ave);
 
 
-        // 2
+        // problem 2
 
         System.out.println("ENTER THE SIDE OF A SQUARE:");
 
@@ -69,4 +69,5 @@ public class java_problems1 {
         
     }
 }
+
 
