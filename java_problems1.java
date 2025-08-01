@@ -30,7 +30,7 @@ public class java_problems1 {
         System.out.println("THE AREA OF SQUARE IS : "+area_sq);
 
 
-        // 3 Enter cost of 3 items from the user (using float data type)- a pencil, a pen and
+        // problem 3 : Enter cost of 3 items from the user (using float data type)- a pencil, a pen and
 //  an eraser. You have to output the total cost of the items back to the user as their bill.
 
         System.out.println("ENTER COST OF PENCIL");
@@ -69,5 +69,6 @@ public class java_problems1 {
         
     }
 }
+
 
 
