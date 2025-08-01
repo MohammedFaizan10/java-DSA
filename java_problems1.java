@@ -53,7 +53,7 @@ public class java_problems1 {
         System.out.println("BILL : "+bill);
 
 
-        // 4   What will be the type of result in the following Java code
+        //problem : 4   What will be the type of result in the following Java code
 
         
      //     ANS : A DATATYPE WHICH HAS HIGHER CAPACITY (BYTE) IN EXPRESSION WILL HAS SAME DATATYPE OF RESULT 
@@ -69,6 +69,7 @@ public class java_problems1 {
         
     }
 }
+
 
 
 
