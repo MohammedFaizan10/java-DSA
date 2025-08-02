@@ -14,14 +14,14 @@ public class java_conditional {
 
         // 2
         Scanner sc = new Scanner(System.in);
-        // System.out.println("ENTER A NUMBER :");
-        // int c = sc.nextInt();
+        System.out.println("ENTER A NUMBER :");
+        int c = sc.nextInt();
 
-        // if (c % 2 == 0){
-        //     System.out.println("IT IS A EVEN NUMBER");
-        // } else {
-        //     System.out.println("IT IS AN ODD NUMBER");
-        // }
+        if (c % 2 == 0){
+             System.out.println("IT IS A EVEN NUMBER");
+       } else {
+            System.out.println("IT IS AN ODD NUMBER");
+        }
 
 
         // // 3
@@ -217,4 +217,5 @@ public class java_conditional {
 
 
     }
+
 }
