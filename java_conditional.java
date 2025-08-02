@@ -24,30 +24,30 @@ public class java_conditional {
         }
 
 
-        // // 3
+        // 3
 
-        // System.out.println("ENTER YOUR INCOME :");
+         System.out.println("ENTER YOUR INCOME :");
 
-        // int inc = sc.nextInt();
-        // int tax = 0;
+         int inc = sc.nextInt();
+         int tax = 0;
 
-        // if (inc < 500000) {
-        //     tax = 0;
-        // }
+         if (inc < 500000) {
+             tax = 0;
+         }
 
-        // else if (inc >= 500000 && inc <= 100000){
-        //     tax = (int)(inc * 0.2);
-        // }
+         else if (inc >= 500000 && inc <= 100000){
+             tax = (int)(inc * 0.2);
+         }
 
-        // else if (inc > 100000){
-        //     tax = (int)(inc * 0.3);
-        // }
+         else if (inc > 100000){
+             tax = (int)(inc * 0.3);
+         }
 
-        // else{
-        //     System.out.println("INVALID INCOME");
-        // }
+         else{
+             System.out.println("INVALID INCOME");
+         }
 
-        // System.out.println("YOUR TAX IS : "+ tax);
+         System.out.println("YOUR TAX IS : "+ tax);
 
 
 
@@ -219,3 +219,4 @@ public class java_conditional {
     }
 
 }
+
