@@ -86,22 +86,22 @@ public class java_conditional {
 
         // // SWITCH STATEMENT
 
-        // System.out.println("ENTER YOUR CHOICE: ");
+         System.out.println("ENTER YOUR CHOICE: ");
 
-        // int choice = sc.nextInt();
+         int choice = sc.nextInt();
 
-        // switch (choice) {
-        //     case 1: System.out.println("ARTIFICIAL INTELLIGENCE");
-        //         break;
-        //     case 2: System.out.println("FULL STACK DEVELOPMENT");
-        //         break;
-        //     case 3: System.out.println("CYBER SECURITY");
-        //         break;
-        //     case 4: System.out.println("DEEP LEARNING");
-        //         break;
-        //     default: System.out.println("INVALID CHOICE");
-        //         break;
-        // }
+         switch (choice) {
+             case 1: System.out.println("ARTIFICIAL INTELLIGENCE");
+                 break;
+             case 2: System.out.println("FULL STACK DEVELOPMENT");
+                 break;
+             case 3: System.out.println("CYBER SECURITY");
+                 break;
+             case 4: System.out.println("DEEP LEARNING");
+                 break;
+             default: System.out.println("INVALID CHOICE");
+                 break;
+         }
 
 
         // // CALCULATOR :
@@ -219,4 +219,5 @@ public class java_conditional {
     }
 
 }
+
 
