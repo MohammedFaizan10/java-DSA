@@ -1,6 +1,6 @@
 public class java_problems2 {
     public static void main(String[] args) {
-        // 1
+        // 1 problem :
 
         // int x = 2, y = 5; 
  
@@ -58,3 +58,4 @@ public class java_problems2 {
         System.out.println(exp2); 
     }
 }
+
