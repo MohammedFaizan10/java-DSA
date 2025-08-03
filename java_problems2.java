@@ -11,7 +11,7 @@ public class java_problems2 {
         // System.out.print(exp2); 
 
 
-        // 2 
+        // 2 problem :
         // int x = 200, y = 50, z = 100; 
 
         // if(x > y && y > z){ 
@@ -58,4 +58,5 @@ public class java_problems2 {
         System.out.println(exp2); 
     }
 }
+
 
