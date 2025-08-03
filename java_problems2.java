@@ -47,7 +47,7 @@ public class java_problems2 {
         // System.out.println(exp); 
 
 
-        // 5
+        // 5 problem :
 
         int x = 10, y = 5; 
  
@@ -58,6 +58,7 @@ public class java_problems2 {
         System.out.println(exp2); 
     }
 }
+
 
 
 
