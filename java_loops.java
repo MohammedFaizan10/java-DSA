@@ -5,7 +5,7 @@ public class java_loops {
      */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        
+        // while loop
         int counter = 0;
 
         while (counter < 31) {
@@ -169,3 +169,4 @@ public class java_loops {
 
     }
 }
+
