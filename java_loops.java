@@ -67,13 +67,13 @@ public class java_loops {
         }
 
 
-        // 1 
+        // problem 1 : 
 
         for(int s=1; s<=4; s++){
             System.out.println("****");
         }
 
-        // 2  REVERSE OF NUMBER 
+        // problem 2 : REVERSE OF NUMBER 
 
         System.out.println("ENTER NUMBER : ");
         int numr = sc.nextInt();
@@ -169,5 +169,6 @@ public class java_loops {
 
     }
 }
+
 
 
