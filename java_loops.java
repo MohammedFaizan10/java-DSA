@@ -93,7 +93,7 @@ public class java_loops {
         System.out.println();
 
 
-        // REVERSE A ORIGINAL NUMBER 
+        // problem 3 : REVERSE A ORIGINAL NUMBER 
 
         System.out.println("ENTER NUMBER : ");
         int numb = sc.nextInt();
@@ -169,6 +169,7 @@ public class java_loops {
 
     }
 }
+
 
 
 
