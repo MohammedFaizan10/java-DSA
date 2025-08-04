@@ -44,7 +44,7 @@ public class java_loops {
 
 
 
-        // SUM OF N NATURAL NUMBERS 
+        // problem : SUM OF N NATURAL NUMBERS 
 
         System.out.println("ENTER N VALUE: ");
         int range1 = sc.nextInt();
@@ -169,4 +169,5 @@ public class java_loops {
 
     }
 }
+
 
