@@ -37,7 +37,7 @@ public class loops_problems {
             
         }
 
-        //  Write a program that reads a set of integers, and then prints the sum of the 
+        //  problem 3 : Write a program that reads a set of integers, and then prints the sum of the 
 // even and odd integers.
 
         int number;
@@ -101,5 +101,6 @@ public class loops_problems {
     }
     
 }
+
 
 
