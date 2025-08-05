@@ -82,7 +82,7 @@ public class loops_problems {
         System.out.println(factorial);
 
 
-        //  Write a program to print the multiplication table of a number N, entered by the 
+        // problem 5 : Write a program to print the multiplication table of a number N, entered by the 
 // user.
 
         System.out.println("ENTER THE FOR MULTIPLICATION TABLE OF IT : ");
@@ -101,6 +101,7 @@ public class loops_problems {
     }
     
 }
+
 
 
 
