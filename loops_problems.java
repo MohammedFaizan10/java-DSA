@@ -4,7 +4,7 @@ public class loops_problems {
 
         Scanner sc  = new Scanner(System.in);
 
-        // CHECK WHETHER THE NUMBER IS PRIME OR NOT 
+        // problem 1 :CHECK WHETHER THE NUMBER IS PRIME OR NOT 
 
         System.out.println("ENTER YOUR NUMBER : ");
         int n = sc.nextInt();
@@ -101,3 +101,4 @@ public class loops_problems {
     }
     
 }
+
