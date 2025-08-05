@@ -63,7 +63,7 @@ public class loops_problems {
         System.out.println("SUM OF ODD NUMBERS : "+odd_num);
 
 
-        // 3 Write a program to find the factorial of any number entered by the user. 
+        // problem 4 : Write a program to find the factorial of any number entered by the user. 
 
         System.out.println("ENTER YOUR NUMBER : ");
         int num = sc.nextInt();
@@ -101,6 +101,7 @@ public class loops_problems {
     }
     
 }
+
 
 
 
