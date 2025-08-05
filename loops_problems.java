@@ -28,7 +28,7 @@ public class loops_problems {
         }
 
 
-        // 2  HOW MANY TIMES HELLO WILL BE PRINTED 
+        // problem : 2  HOW MANY TIMES HELLO WILL BE PRINTED 
 
         for(int i = 0 ; i < 5 ; i++){
             System.out.println("hello");
@@ -101,4 +101,5 @@ public class loops_problems {
     }
     
 }
+
 
