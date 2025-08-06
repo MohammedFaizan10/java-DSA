@@ -2,9 +2,9 @@ import java.util.*;
 public class java_patterns {
     public static void main(String[] args) {
         
-        // NESTED LOOPS 
+        // PATTERNS WITH NESTED LOOPS 
 
-        // 1
+        // PATTERN 1 :
 
         Scanner sc  = new Scanner(System.in);
 
@@ -59,3 +59,4 @@ public class java_patterns {
         }
     }
 }
+
