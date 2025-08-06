@@ -32,7 +32,7 @@ public class java_patterns {
         // }
 
 
-        // HALF-PYRAMID PATTERN
+        // PATTERN 3 : HALF-PYRAMID PATTERN
 
         // System.out.println("ENTER YOUR NUMBER : ");
         // int numb = sc.nextInt();
@@ -59,5 +59,6 @@ public class java_patterns {
         }
     }
 }
+
 
 
