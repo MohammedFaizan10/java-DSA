@@ -19,7 +19,7 @@ public class java_patterns {
         }
 
 
-        // 2
+        // PATTERN 2 :
 
         // System.out.println("ENTER YOUR NUMBER : ");
         // int num = sc.nextInt();
@@ -59,4 +59,5 @@ public class java_patterns {
         }
     }
 }
+
 
