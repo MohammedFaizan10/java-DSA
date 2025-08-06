@@ -44,7 +44,7 @@ public class java_patterns {
         //         System.out.println();
         // }
 
-        // CHARACTER PATTERN 
+        // PATTERN 4 : CHARACTER PATTERN 
 
         System.out.println("ENTER YOUR NUMBER : ");
         int numx = sc.nextInt();
@@ -59,6 +59,7 @@ public class java_patterns {
         }
     }
 }
+
 
 
 
