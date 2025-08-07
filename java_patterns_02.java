@@ -45,6 +45,7 @@ public class java_patterns_02 {
             System.out.println();
         }
 
+// Floyd Triangle
         public static void floydTriangle(int n){
             int num = 0;
             for(int i = 1 ; i<=n ; i++){
@@ -173,4 +174,5 @@ public class java_patterns_02 {
 
 
 }
+
 
