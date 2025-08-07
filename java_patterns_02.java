@@ -19,7 +19,7 @@ public class java_patterns_02 {
         }
     }
 
-
+// halfPyramid pattern
     public static void halfPyramid(int n){            // n is for lines/rows
         for(int i = 1; i<=n ; i++){
             for(int j = 1 ; j <= n-i; j++){            // spaces
@@ -173,3 +173,4 @@ public class java_patterns_02 {
 
 
 }
+
