@@ -75,6 +75,7 @@ public class java_patterns_02 {
         }
 
 
+// ButterFly Pattern
         public static void butterfly(int n){
             for(int i = 1; i<=n ; i++){
                 for(int j = 1; j<=i ; j++){
@@ -175,6 +176,7 @@ public class java_patterns_02 {
 
 
 }
+
 
 
 
