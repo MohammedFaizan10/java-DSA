@@ -119,6 +119,7 @@ public class java_patterns_02 {
         }
 
 
+// HollowRhombus Pattern
         public static void hollowRhombus(int n){
             for(int i = 1; i<=n ; i++){
                 for(int j = 1; j<=n-i ; j++){
@@ -137,6 +138,8 @@ public class java_patterns_02 {
                 System.out.println();
             }
 
+
+// Diamond Pattern
             public static void diamond(int n){
                 for(int i = 1; i<=n ; i++){
                     for(int j = 1; j<=n-i;j++){
@@ -177,6 +180,7 @@ public class java_patterns_02 {
 
 
 }
+
 
 
 
