@@ -104,6 +104,7 @@ public class java_patterns_02 {
             System.out.println();
         }
 
+// SolidRhombus
         public static void solidRhombus(int n){
             for(int i = 1; i<=n ; i++){
                 for(int j = 1 ; j<= n-i ; j++){
@@ -176,6 +177,7 @@ public class java_patterns_02 {
 
 
 }
+
 
 
 
