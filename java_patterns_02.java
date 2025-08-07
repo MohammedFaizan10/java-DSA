@@ -163,7 +163,7 @@ public class java_patterns_02 {
             }
         
     
-    
+    // MAIN FUNCTION
 
     public static void main(String[] args) {
         
@@ -180,6 +180,7 @@ public class java_patterns_02 {
 
 
 }
+
 
 
 
