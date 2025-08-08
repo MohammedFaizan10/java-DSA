@@ -58,7 +58,7 @@ public class java_functions {
         return multiply;
     }
 
-    // FACTORIAL 
+    // problem 2 : FACTORIAL 
 
     public static int fact(int n){
         int f = 1;
@@ -71,7 +71,7 @@ public class java_functions {
 
     }
 
-    // BINOMIAL COEFFICIENT       JUST USING FACTORIAL FUNCTION IN IT 
+    // problem 3 : BINOMIAL COEFFICIENT       JUST USING FACTORIAL FUNCTION IN IT 
 
     public static int binomial( int n , int r){
         int nfact = fact(n);                                // EK FUNCTION MEIN DUSRA FUNCTION CALL KARSAKTE 
@@ -84,4 +84,5 @@ public class java_functions {
 
     
 }
+
 
