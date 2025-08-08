@@ -51,7 +51,7 @@ public class java_functions {
 
     }
 
-    // PRODUCT OF A AND B
+    // problem 1 : PRODUCT OF A AND B
 
     public static int product(int c , int d){                // copy of values actual c and d
         int multiply = c*d;
@@ -84,3 +84,4 @@ public class java_functions {
 
     
 }
+
