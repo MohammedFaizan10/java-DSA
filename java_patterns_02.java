@@ -58,7 +58,7 @@ public class java_patterns_02 {
             System.out.println();
         }
 
-// ZeroOne Pattern
+// ZeroOne Pattern problem
         public static void zeroOne(int n){
             for(int i = 1 ; i<=n ; i++){
                 for(int j = 1; j<=i ; j++){
@@ -75,7 +75,7 @@ public class java_patterns_02 {
         }
 
 
-// ButterFly Pattern
+// ButterFly Pattern problem
         public static void butterfly(int n){
             for(int i = 1; i<=n ; i++){
                 for(int j = 1; j<=i ; j++){
@@ -104,7 +104,7 @@ public class java_patterns_02 {
             System.out.println();
         }
 
-// SolidRhombus
+// SolidRhombus problem 
         public static void solidRhombus(int n){
             for(int i = 1; i<=n ; i++){
                 for(int j = 1 ; j<= n-i ; j++){
@@ -119,7 +119,7 @@ public class java_patterns_02 {
         }
 
 
-// HollowRhombus Pattern
+// HollowRhombus Pattern problem
         public static void hollowRhombus(int n){
             for(int i = 1; i<=n ; i++){
                 for(int j = 1; j<=n-i ; j++){
@@ -139,7 +139,7 @@ public class java_patterns_02 {
             }
 
 
-// Diamond Pattern
+// Diamond Pattern problem
             public static void diamond(int n){
                 for(int i = 1; i<=n ; i++){
                     for(int j = 1; j<=n-i;j++){
