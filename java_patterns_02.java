@@ -163,7 +163,7 @@ public class java_patterns_02 {
             }
         
     
-    // MAIN FUNCTION
+    // MAIN FUNCTION (All Patterns)
 
     public static void main(String[] args) {
         
