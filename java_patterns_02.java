@@ -19,7 +19,7 @@ public class java_patterns_02 {
         }
     }
 
-// halfPyramid pattern
+// halfPyramid pattern program
     public static void halfPyramid(int n){            // n is for lines/rows
         for(int i = 1; i<=n ; i++){
             for(int j = 1 ; j <= n-i; j++){            // spaces
@@ -45,7 +45,7 @@ public class java_patterns_02 {
             System.out.println();
         }
 
-// Floyd Triangle
+// Floyd Triangle problem 
         public static void floydTriangle(int n){
             int num = 0;
             for(int i = 1 ; i<=n ; i++){
@@ -180,6 +180,7 @@ public class java_patterns_02 {
 
 
 }
+
 
 
 
