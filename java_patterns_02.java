@@ -1,5 +1,6 @@
 public class java_patterns_02 {
 
+// Hollow Rectangle problem 
     public static void hollow_Rectagle(int total_rows, int total_cols){
 
         // OUTER LOOP
@@ -33,6 +34,9 @@ public class java_patterns_02 {
 
             System.out.println();
         }
+
+numHal
+
 
         public static void numHalfPyramid(int n){
             
@@ -180,6 +184,7 @@ public class java_patterns_02 {
 
 
 }
+
 
 
 
