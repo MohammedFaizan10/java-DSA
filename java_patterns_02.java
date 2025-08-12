@@ -35,7 +35,7 @@ public class java_patterns_02 {
             System.out.println();
         }
 
-// numHalFPyramid 
+// numHalFPyramid problem
 
 
         public static void numHalfPyramid(int n){
@@ -184,6 +184,7 @@ public class java_patterns_02 {
 
 
 }
+
 
 
 
