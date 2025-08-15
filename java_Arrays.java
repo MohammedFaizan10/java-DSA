@@ -10,7 +10,7 @@ public class java_Arrays {
     }
 
 
-
+// main 
     public static void main(String[] args) {
 
         // // method 1
@@ -55,4 +55,5 @@ public class java_Arrays {
 
     }
 }
+
 
