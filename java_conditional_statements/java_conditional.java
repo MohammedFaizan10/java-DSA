@@ -1,4 +1,4 @@
-package conditional_statements;
+package java_conditional_statements;
 import java.util.*;
 public class java_conditional {
 
