@@ -1,3 +1,5 @@
+package Arrays;
+import java.util.*;
 public class java_Array_02 {
     
     public static int linearSearch(int num[], int key){
