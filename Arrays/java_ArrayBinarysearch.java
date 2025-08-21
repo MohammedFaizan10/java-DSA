@@ -1,3 +1,5 @@
+package Arrays;
+
 public class java_ArrayBinarysearch {
 
     public static int binarySearch(int arr[], int key){
