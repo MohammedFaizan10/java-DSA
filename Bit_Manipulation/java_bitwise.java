@@ -62,6 +62,7 @@ public class java_bitwise {
 
 
 
+    // IsPrimeOfTwo
     public static boolean isPrimeOfTwo(int n8){
         if( (n8 & ( n8 - 1)) == 0){
             return true;
@@ -69,6 +70,7 @@ public class java_bitwise {
         return false;
     }
 
+    // COUNT SET BITS
     public static int countsetithbits(int n9){
         int count = 0;
         while(n9 > 0){
@@ -81,6 +83,7 @@ public class java_bitwise {
     }
 
 
+    // FAST EXPONENTIATION
     public static int fastExp(int base , int pow){
         int ans = 1;
         while(pow > 0){
