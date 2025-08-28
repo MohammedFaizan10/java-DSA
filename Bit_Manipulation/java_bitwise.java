@@ -1,5 +1,7 @@
 import java.util.*;
 public class java_bitwise {
+
+    // CHECK EVEN OR ODD
     public static void oddEven(int n){
         int bitwise = n;
         if((n & 1) == 0){
@@ -11,6 +13,7 @@ public class java_bitwise {
 
     } 
 
+    // GET ITH BIT
     public static void getIth(int n1, int i){
         int bitmask = (1 << i);
         if((n1 & bitmask) != 0){
