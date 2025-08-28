@@ -24,27 +24,35 @@ public class java_bitwise {
         }
     }
 
+    // SET ITH BIT
     public static int setIthbit(int n2,int k){
         int bitmask = 1<<k;
         return ( n2 | bitmask);
     }
 
+    //CLEAR ITH BIT
     public static int clearith(int n3 , int j){
         int bitmask = ~(1<<j);
         return (n3 & bitmask);
     }
 
+
+    // UPDATE ITH BIT
     public static int updateith(int n4, int p, int newbit){
         n4 =  clearith(n4, p);
         int bitmask =  newbit << p;
         return bitmask | n4;                      // 0 | 0  ==> 0 or else 1
     }
 
+    // CLEAR ITH BITS
     public static int clearithbits(int n5 , int z){
         int bitmask = ~(0) << z;
         return bitmask & n5;
     }
 
+
+
+    // CLEAR ITH BITS IN RANGE
     public static int clearinRangebits(int n7, int p1 , int p2){
         int a = (~(0)<<(p2+1));
         int b = (1<<p1)-1;
