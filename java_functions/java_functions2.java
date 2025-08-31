@@ -186,7 +186,7 @@ public class java_functions2 {
 
 
 
-
+            // MAIN FUNCTION
     public static void main(String[] args) {
         System.out.println("SUM OF TWO : "+sum(4,6));
         System.out.println("SUM OF THREE : "+sum(2,6,12));
