@@ -1,3 +1,5 @@
+package java_functions;
+
 import java.util.*;
 public class java_functions2 {
 
