@@ -1,0 +1,28 @@
+1class Solution {
+2    public int totalFruit(int[] fruits) {
+3        int n = fruits.length;
+4        int fruit = 0;
+5        int maxfruits = 0;
+6        int low = 0;
+7        HashMap<Integer,Integer> map = new HashMap<>();
+8        for(int high = 0 ; high < n ; high++){
+9            int num = fruits[high];
+10            map.put(num,map.getOrDefault(num,0)+1);
+11            while(map.size() > 2){
+12                int numL = fruits[low];
+13                map.put(numL,map.getOrDefault(numL,0)-1);
+14                if(map.get(numL)==0){
+15                    map.remove(numL);
+16                }
+17                low++;
+18            }
+19            if(map.size() <= 2){         // IF IS NOT MANDATORY
+20                fruit = 0;                        //reset
+21                fruit = high - low + 1;
+22                maxfruits = Math.max(fruit,maxfruits);
+23            }
+24
+25        }
+26        return maxfruits;
+27    }
+28}
