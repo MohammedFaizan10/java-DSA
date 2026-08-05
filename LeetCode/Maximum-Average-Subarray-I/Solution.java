@@ -5,7 +5,7 @@
 5        int high = k-1;;
 6        double sum = 0;
 7        double average = 0;
-8        double maxavg = Double.NEGATIVE_INFINITY;
+8        double maxavg = Integer.MIN_VALUE;
 9        for(int i = 0 ; i < k ; i++){
 10            sum += nums[i];
 11        }
