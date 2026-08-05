@@ -18,17 +18,18 @@
 18                arr[s.charAt(low)-'A']--;
 19                low++;
 20                len = high - low +1;
-21                for(int i = 0 ; i < 26 ; i++){
-22                    maxfreq = Math.max(maxfreq,arr[i]);
-23                }
-24                diff = len - maxfreq; 
-25            }
-26            if(diff <= k){
-27                maxlen = Math.max(len,maxlen);
-28            }
-29
+21                maxfreq = 0;
+22                for(int i = 0 ; i < 26 ; i++){
+23                    maxfreq = Math.max(maxfreq,arr[i]);
+24                }
+25                diff = len - maxfreq; 
+26            }
+27            if(diff <= k){
+28                maxlen = Math.max(len,maxlen);
+29            }
 30
-31        }
-32        return maxlen;
-33    }
-34}
+31
+32        }
+33        return maxlen;
+34    }
+35}
