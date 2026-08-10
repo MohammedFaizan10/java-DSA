@@ -20,8 +20,11 @@
 20                low++;
 21                
 22            }
-23            count += high - low +1;
-24        }
-25        return count;
-26    }
-27}
+23            if(map.size() <= k){
+24                count += high - low +1;
+25            }
+26            
+27        }
+28        return count;
+29    }
+30}
