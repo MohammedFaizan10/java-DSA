@@ -1,16 +1,15 @@
-1import java.util.*;
-2class Solution {
-3    public int maxSubArray(int[] nums) {
-4        int currentSum = 0;
-5        int max_sum = Integer.MIN_VALUE;
-6        for(int i = 0 ; i < nums.length; i++){
-7            if(currentSum < 0){
-8                currentSum = 0;
-9            }
-10            currentSum +=nums[i];
-11            max_sum = Math.max(max_sum , currentSum);
-12
-13        }
-14        return max_sum;
-15    }
-16}
+1class Solution {
+2    public int maxSubArray(int[] nums) {
+3        int n = nums.length;
+4        int bestEnding = 0;
+5        int max = Integer.MIN_VALUE;;
+6        for(int i = 0 ; i < n ; i++){
+7            int v1 = bestEnding + nums[i];
+8            int v2 = nums[i];
+9            bestEnding = Math.max(v1,v2);
+10            max = Math.max(max,bestEnding);
+11
+12        }
+13        return max;
+14    }
+15}
