@@ -54,3 +54,19 @@ I’ll commit at least one concept daily. Each folder will contain:
 ---
 
 _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/MohammedFaizan10/java-DSA/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/MohammedFaizan10/java-DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/MohammedFaizan10/java-DSA/tree/master/0053-maximum-subarray) |
+<!---LeetCode Topics End-->
