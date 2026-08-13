@@ -61,6 +61,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MohammedFaizan10/java-DSA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/MohammedFaizan10/java-DSA/tree/master/0152-maximum-product-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,4 +70,5 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MohammedFaizan10/java-DSA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/MohammedFaizan10/java-DSA/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
