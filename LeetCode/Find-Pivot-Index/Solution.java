@@ -12,7 +12,7 @@
 12        }
 13
 14        if(sum == nums[0]){
-15            return 0;
+15            return 0;                // zero th pivot index
 16        }
 17        
 18
