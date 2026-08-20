@@ -62,6 +62,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 | ------- |
 | [0053-maximum-subarray](https://github.com/MohammedFaizan10/java-DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/MohammedFaizan10/java-DSA/tree/master/0152-maximum-product-subarray) |
+| [0560-subarray-sum-equals-k](https://github.com/MohammedFaizan10/java-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MohammedFaizan10/java-DSA/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MohammedFaizan10/java-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MohammedFaizan10/java-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -90,11 +91,13 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/MohammedFaizan10/java-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MohammedFaizan10/java-DSA/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/MohammedFaizan10/java-DSA/tree/master/0076-minimum-window-substring) |
+| [0560-subarray-sum-equals-k](https://github.com/MohammedFaizan10/java-DSA/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
