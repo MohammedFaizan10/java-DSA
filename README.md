@@ -66,6 +66,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 | [0560-subarray-sum-equals-k](https://github.com/MohammedFaizan10/java-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MohammedFaizan10/java-DSA/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MohammedFaizan10/java-DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0930-binary-subarrays-with-sum](https://github.com/MohammedFaizan10/java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MohammedFaizan10/java-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MohammedFaizan10/java-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Divide and Conquer
@@ -94,11 +95,13 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/MohammedFaizan10/java-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MohammedFaizan10/java-DSA/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/MohammedFaizan10/java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/MohammedFaizan10/java-DSA/tree/master/0076-minimum-window-substring) |
 | [0560-subarray-sum-equals-k](https://github.com/MohammedFaizan10/java-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/MohammedFaizan10/java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 ## String
 |  |
 | ------- |
@@ -107,6 +110,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/MohammedFaizan10/java-DSA/tree/master/0076-minimum-window-substring) |
+| [0930-binary-subarrays-with-sum](https://github.com/MohammedFaizan10/java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 ## Two Pointers
 |  |
 | ------- |
