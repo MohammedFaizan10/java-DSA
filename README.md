@@ -63,6 +63,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 | [0053-maximum-subarray](https://github.com/MohammedFaizan10/java-DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/MohammedFaizan10/java-DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohammedFaizan10/java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0525-contiguous-array](https://github.com/MohammedFaizan10/java-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MohammedFaizan10/java-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MohammedFaizan10/java-DSA/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MohammedFaizan10/java-DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -94,6 +95,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/MohammedFaizan10/java-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MohammedFaizan10/java-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MohammedFaizan10/java-DSA/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/MohammedFaizan10/java-DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -102,6 +104,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/MohammedFaizan10/java-DSA/tree/master/0076-minimum-window-substring) |
+| [0525-contiguous-array](https://github.com/MohammedFaizan10/java-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MohammedFaizan10/java-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/MohammedFaizan10/java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MohammedFaizan10/java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
