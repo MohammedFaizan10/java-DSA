@@ -70,6 +70,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 | [0930-binary-subarrays-with-sum](https://github.com/MohammedFaizan10/java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohammedFaizan10/java-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/MohammedFaizan10/java-DSA/tree/master/1094-car-pooling) |
+| [1109-corporate-flight-bookings](https://github.com/MohammedFaizan10/java-DSA/tree/master/1109-corporate-flight-bookings) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MohammedFaizan10/java-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MohammedFaizan10/java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MohammedFaizan10/java-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -103,6 +104,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 | [0930-binary-subarrays-with-sum](https://github.com/MohammedFaizan10/java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohammedFaizan10/java-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/MohammedFaizan10/java-DSA/tree/master/1094-car-pooling) |
+| [1109-corporate-flight-bookings](https://github.com/MohammedFaizan10/java-DSA/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MohammedFaizan10/java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/MohammedFaizan10/java-DSA/tree/master/2485-find-the-pivot-integer) |
 ## Hash Table
