@@ -74,6 +74,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MohammedFaizan10/java-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MohammedFaizan10/java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MohammedFaizan10/java-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2381-shifting-letters-ii](https://github.com/MohammedFaizan10/java-DSA/tree/master/2381-shifting-letters-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -106,6 +107,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 | [1094-car-pooling](https://github.com/MohammedFaizan10/java-DSA/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/MohammedFaizan10/java-DSA/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MohammedFaizan10/java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [2381-shifting-letters-ii](https://github.com/MohammedFaizan10/java-DSA/tree/master/2381-shifting-letters-ii) |
 | [2485-find-the-pivot-integer](https://github.com/MohammedFaizan10/java-DSA/tree/master/2485-find-the-pivot-integer) |
 ## Hash Table
 |  |
@@ -120,6 +122,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/MohammedFaizan10/java-DSA/tree/master/0076-minimum-window-substring) |
+| [2381-shifting-letters-ii](https://github.com/MohammedFaizan10/java-DSA/tree/master/2381-shifting-letters-ii) |
 ## Sliding Window
 |  |
 | ------- |
