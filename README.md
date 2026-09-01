@@ -113,6 +113,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/MohammedFaizan10/java-DSA/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/MohammedFaizan10/java-DSA/tree/master/0141-linked-list-cycle) |
 | [0525-contiguous-array](https://github.com/MohammedFaizan10/java-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MohammedFaizan10/java-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/MohammedFaizan10/java-DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -132,6 +133,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/MohammedFaizan10/java-DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohammedFaizan10/java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -154,4 +156,12 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/MohammedFaizan10/java-DSA/tree/master/1094-car-pooling) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/MohammedFaizan10/java-DSA/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/MohammedFaizan10/java-DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
