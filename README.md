@@ -133,6 +133,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/MohammedFaizan10/java-DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohammedFaizan10/java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -160,6 +161,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/MohammedFaizan10/java-DSA/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
