@@ -115,6 +115,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 | ------- |
 | [0076-minimum-window-substring](https://github.com/MohammedFaizan10/java-DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/MohammedFaizan10/java-DSA/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/MohammedFaizan10/java-DSA/tree/master/0202-happy-number) |
 | [0525-contiguous-array](https://github.com/MohammedFaizan10/java-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MohammedFaizan10/java-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/MohammedFaizan10/java-DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -137,6 +138,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/MohammedFaizan10/java-DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohammedFaizan10/java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/MohammedFaizan10/java-DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/MohammedFaizan10/java-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -147,6 +149,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/MohammedFaizan10/java-DSA/tree/master/0202-happy-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MohammedFaizan10/java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/MohammedFaizan10/java-DSA/tree/master/2485-find-the-pivot-integer) |
 ## Sorting
@@ -171,6 +174,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MohammedFaizan10/java-DSA/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/MohammedFaizan10/java-DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/MohammedFaizan10/java-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
