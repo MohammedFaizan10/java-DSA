@@ -141,6 +141,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 | [0202-happy-number](https://github.com/MohammedFaizan10/java-DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/MohammedFaizan10/java-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +171,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/MohammedFaizan10/java-DSA/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -184,4 +186,8 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/MohammedFaizan10/java-DSA/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
