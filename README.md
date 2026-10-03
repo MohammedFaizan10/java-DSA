@@ -136,6 +136,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/MohammedFaizan10/java-DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohammedFaizan10/java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/MohammedFaizan10/java-DSA/tree/master/0202-happy-number) |
@@ -171,6 +172,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/MohammedFaizan10/java-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MohammedFaizan10/java-DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/MohammedFaizan10/java-DSA/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
