@@ -70,6 +70,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 | [0918-maximum-sum-circular-subarray](https://github.com/MohammedFaizan10/java-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/MohammedFaizan10/java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohammedFaizan10/java-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1019-next-greater-node-in-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1094-car-pooling](https://github.com/MohammedFaizan10/java-DSA/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/MohammedFaizan10/java-DSA/tree/master/1109-corporate-flight-bookings) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MohammedFaizan10/java-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -185,6 +186,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 | [0148-sort-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0148-sort-list) |
 | [0445-add-two-numbers-ii](https://github.com/MohammedFaizan10/java-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -204,6 +206,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/MohammedFaizan10/java-DSA/tree/master/0445-add-two-numbers-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -219,4 +222,8 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MohammedFaizan10/java-DSA/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
