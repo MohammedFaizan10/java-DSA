@@ -155,6 +155,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/MohammedFaizan10/java-DSA/tree/master/0202-happy-number) |
+| [0445-add-two-numbers-ii](https://github.com/MohammedFaizan10/java-DSA/tree/master/0445-add-two-numbers-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MohammedFaizan10/java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/MohammedFaizan10/java-DSA/tree/master/2485-find-the-pivot-integer) |
 ## Sorting
@@ -182,6 +183,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/MohammedFaizan10/java-DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0148-sort-list) |
+| [0445-add-two-numbers-ii](https://github.com/MohammedFaizan10/java-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -201,6 +203,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 ## Stack
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/MohammedFaizan10/java-DSA/tree/master/0445-add-two-numbers-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
