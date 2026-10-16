@@ -188,6 +188,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 | [0876-middle-of-the-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -208,11 +209,13 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 | [0445-add-two-numbers-ii](https://github.com/MohammedFaizan10/java-DSA/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/MohammedFaizan10/java-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MohammedFaizan10/java-DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [2487-remove-nodes-from-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -226,4 +229,5 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
