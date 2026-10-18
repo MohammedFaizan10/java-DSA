@@ -117,6 +117,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/MohammedFaizan10/java-DSA/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/MohammedFaizan10/java-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MohammedFaizan10/java-DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/MohammedFaizan10/java-DSA/tree/master/0202-happy-number) |
 | [0525-contiguous-array](https://github.com/MohammedFaizan10/java-DSA/tree/master/0525-contiguous-array) |
@@ -182,6 +183,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 | [0025-reverse-nodes-in-k-group](https://github.com/MohammedFaizan10/java-DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/MohammedFaizan10/java-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MohammedFaizan10/java-DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0148-sort-list) |
 | [0445-add-two-numbers-ii](https://github.com/MohammedFaizan10/java-DSA/tree/master/0445-add-two-numbers-ii) |
