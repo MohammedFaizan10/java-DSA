@@ -61,6 +61,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MohammedFaizan10/java-DSA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/MohammedFaizan10/java-DSA/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/MohammedFaizan10/java-DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohammedFaizan10/java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/MohammedFaizan10/java-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -163,6 +164,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/MohammedFaizan10/java-DSA/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0148-sort-list) |
 | [1094-car-pooling](https://github.com/MohammedFaizan10/java-DSA/tree/master/1094-car-pooling) |
 ## Heap (Priority Queue)
@@ -232,4 +234,8 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/2487-remove-nodes-from-linked-list) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/MohammedFaizan10/java-DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
