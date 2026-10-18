@@ -4,8 +4,6 @@ class Solution {
             return new int[][]{newInterval};
         }
 
-        Arrays.sort(intervals, (a,b) -> Integer.compare(a[0],b[0]));
-
         int start = intervals[0][0];
 
         ArrayList<int[]> ans = new ArrayList<>();
