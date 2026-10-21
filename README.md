@@ -72,6 +72,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 | [0918-maximum-sum-circular-subarray](https://github.com/MohammedFaizan10/java-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/MohammedFaizan10/java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohammedFaizan10/java-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/MohammedFaizan10/java-DSA/tree/master/0986-interval-list-intersections) |
 | [1019-next-greater-node-in-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1094-car-pooling](https://github.com/MohammedFaizan10/java-DSA/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/MohammedFaizan10/java-DSA/tree/master/1109-corporate-flight-bookings) |
@@ -149,6 +150,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 | [0202-happy-number](https://github.com/MohammedFaizan10/java-DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/MohammedFaizan10/java-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/MohammedFaizan10/java-DSA/tree/master/0986-interval-list-intersections) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MohammedFaizan10/java-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
@@ -239,4 +241,8 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/MohammedFaizan10/java-DSA/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/MohammedFaizan10/java-DSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
