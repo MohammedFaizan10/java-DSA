@@ -98,6 +98,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MohammedFaizan10/java-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MohammedFaizan10/java-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -123,6 +124,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 | [0138-copy-list-with-random-pointer](https://github.com/MohammedFaizan10/java-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MohammedFaizan10/java-DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/MohammedFaizan10/java-DSA/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/MohammedFaizan10/java-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/MohammedFaizan10/java-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MohammedFaizan10/java-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/MohammedFaizan10/java-DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -132,6 +134,7 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/MohammedFaizan10/java-DSA/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/MohammedFaizan10/java-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2381-shifting-letters-ii](https://github.com/MohammedFaizan10/java-DSA/tree/master/2381-shifting-letters-ii) |
 ## Sliding Window
 |  |
@@ -245,4 +248,8 @@ _Thank you for visiting my repo! Let’s grow together as developers! 💻🔥_
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/MohammedFaizan10/java-DSA/tree/master/0986-interval-list-intersections) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MohammedFaizan10/java-DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
